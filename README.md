@@ -1,4 +1,5 @@
-# AI-Powered Chess Game 
+
+# AI-Powered Chess Game ♟️
 
 Welcome to the **AI-Powered Chess Game**, a fun and interactive chess application developed in Python using `pygame` and `python-chess`. This chess game features:
 
@@ -44,13 +45,9 @@ python main.py
 AI-Powered-Chess-Game/
 │
 ├── main.py                # Entry point
-
 ├── game.py                # Game logic and rendering
-
 ├── utils.py               # Helper functions (e.g., draw_board, load_piece_image)
-
 ├── images/                # Piece images (e.g., w_pawn.png, b_queen.png, etc.)
-
 ├── README.md              # Project documentation
 
 
